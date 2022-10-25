@@ -1,0 +1,22 @@
+.bold{ font-size: 25px;
+       color:blue;
+       font-weight: bold;
+}
+.box{
+    border:1px black;
+}
+.body{
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.bold1{
+    
+}

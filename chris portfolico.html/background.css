@@ -1,0 +1,40 @@
+.title{ text-align: center ;
+    color: gray 
+}
+body{ background-color: rgb(94, 98, 89);
+    background-repeat: none;
+background-size: auto;
+}
+.first{ color: white; 
+}
+.secound{ color:aqua
+}
+.third{ color:rgb(135, 194, 26);
+}
+.fourth{ color:rgb(29, 139, 71)
+}
+.fifth{color:rgb(25, 114, 155)
+}
+.sixth{ color:pink
+}
+.list1{color:antiquewhite}
+.list2{color:whitesmoke}
+.image{
+    color:gray;
+}
+.uno{
+    background-color: brown;
+    color:rgb(38, 0, 255);
+    border: none;
+    padding:16px 32px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.uno:hover{ transform: translateY(1px);
+            background-color:blueviolet;}
+
+.uno:active{transform: translateY(4px) }

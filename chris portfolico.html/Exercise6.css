@@ -1,0 +1,51 @@
+.bold{ font-size: 25px;
+       color:blue;
+       font-weight: bold;
+}
+.box{
+    border:1px black;
+}
+.bold{
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    
+}
+.body{
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    width: 75%;
+    
+}
+.bold1{
+    font-size: 35px;
+    color:blue;
+    width:75%;
+    position: relative;
+    right: -20px;
+}
+.P{
+    margin-left: 10px;
+}
+#i{
+    position: relative;
+    right:-670px;
+    top:-450px;
+    margin: 10px;
+
+}
